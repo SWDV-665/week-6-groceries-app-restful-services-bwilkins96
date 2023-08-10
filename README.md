@@ -1,6 +1,6 @@
-App Repository: https://github.com/bwilkins96/SWDV_665_Groceries_App
-
 Updated Server Repository: https://github.com/bwilkins96/SWDV_665_Groceries_Server
+
+App Repository: https://github.com/bwilkins96/SWDV_665_Groceries_App
 --------------------------------------------------------------------
 
 1. The current status of the app should do CRUD operations and have RESTful services for persisting data.
